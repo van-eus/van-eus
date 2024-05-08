@@ -4,11 +4,12 @@
 
 **Introduction:**
 
-👋 Hello, I'm [Your Name], a passionate Software Developer with a knack for building end-to-end solutions. As a Full Stack Developer, I thrive in both front-end and back-end environments, ensuring seamless user experiences and robust server-side operations. My journey in coding has been marked by a relentless pursuit of elegant, efficient code that solves real-world problems. Explore my GitHub to witness my commitment to creating innovative software solutions. Let's collaborate and turn ideas into reality! 🚀
+👋 Hello, I'm Vanessa, a passionate Software Developer with a knack for building end-to-end solutions. As a Full Stack Developer, I thrive in both front-end and back-end environments, ensuring seamless user experiences and robust server-side operations. My journey in coding has been marked by a relentless pursuit of elegant, efficient code that solves real-world problems. Explore my GitHub to witness my commitment to creating innovative software solutions. Let's collaborate and turn ideas into reality! 🚀
 
-Skills: VUE JS / REACT / JS / HTML / CSS/TYPESRIPT/NODEJS/PYTHON/C++/PHP
+Skills: VUE JS / REACT / JS / HTML / CSS/TYPESRIPT/NODEJS/PYTHON/C++/PHP/JAVA/
 
-- 🔭 I’m currently working on Sentinel360 
+- 🔭 I’m currently working on Sentinel360
+- - 🔭 I’m currently working on Novars Project 
 - 🌱 I’m currently learning Machine Learning and AI 
 - 👯 I’m looking to collaborate on Google 
 - 📫 How to reach me: Contact me: 0739401403 
