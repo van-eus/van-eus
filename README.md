@@ -1,6 +1,5 @@
 ### Hi there 👋, Uwase Vanessa
-#### UI Designer and Fullstack
-![UI Designer and Fullstack](https://github.com/van-eus)
+#### Fullstack Developer
 
 **Introduction:**
 
@@ -8,13 +7,11 @@
 
 Skills: VUE JS / REACT / JS / HTML / CSS/TYPESRIPT/NODEJS/PYTHON/C++/PHP/JAVA/
 
-- 🔭 I’m currently working on Sentinel360
-- - 🔭 I’m currently working on Novars Project 
+- 🔭 I’m currently working on Novars Project 
 - 🌱 I’m currently learning Machine Learning and AI 
 - 👯 I’m looking to collaborate on Google 
 - 📫 How to reach me: Contact me: 0739401403 
 - 😄 Pronouns: She/Her 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/van-eus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Uwase Vanessa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Uwase Vanessa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ van_eus/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@van_e_us)  
 
@@ -27,5 +24,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS/TYPESRIPT/NODEJS/PYTHON/C++/PHP/JAVA/
 ![GitHub metrics](https://metrics.lecoq.io/van-eus)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=van-eus)  
-
-![Profile views](https://gpvc.arturio.dev/van-eus)  
